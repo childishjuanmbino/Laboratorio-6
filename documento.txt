@@ -1,6 +1,6 @@
 Hola Mundo :)
-Fecha: 20.04.2025
-Titullo: Las operaciones Aritmmetycas
+Fecha: 23.04.2026
+Título: Las operaciones aritméticas
 ------------------------------------
 
 La suma (+):
@@ -9,7 +9,7 @@ La suma (+):
 La resta (-):
 3 - 9 = -6
 
-La multiplikasion (x):
+La multiplicación (x):
 2 x 8 = 14
 
-La dibicion
+La división
